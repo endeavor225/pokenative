@@ -36,6 +36,9 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    
+    "permissions": ["AUDIO_RECORDING"]
+  
   }
 }
